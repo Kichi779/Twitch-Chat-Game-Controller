@@ -26,6 +26,8 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **enter the name of your channel in the initial_channels=['xxxx'] section**
 
-- **Then run the run.bat file or double click the chatbot.py file.**
+- **Then run the run.bat file or double click the main.py file.**
 
 If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
+
+# Getting an ACCESS TOKEN code
