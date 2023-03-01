@@ -19,3 +19,13 @@ cd chatgamecontroller
 
 pip install -r requirements.txt (Or you can click on install.bat file)
 ```
+
+## Usage
+
+- **main.py enter the file into the configuration and in the token='xxxx' section, whichever bot you are using (you can use a new account or your own main publication account.) paste his access token here.**
+
+- **enter the name of your channel in the initial_channels=['xxxx'] section**
+
+- **Then run the run.bat file or double click the chatbot.py file.**
+
+If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
