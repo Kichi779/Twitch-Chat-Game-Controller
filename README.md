@@ -31,4 +31,5 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
 
 # Getting an ACCESS TOKEN code
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/92625816/222265903-b705efec-ca9e-4f93-8173-f4ff82e60637.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/92625816/222266450-d2487a6b-d007-4a39-823c-6a001e15b169.gif)
+
