@@ -31,5 +31,8 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
 
 # Getting an ACCESS TOKEN code
+- Log in to twitch 
+- https://twitchtokengenerator.com/ Then press the bot chat token
+- Accept permissions and copy access token
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/92625816/222266874-8fc100d6-8f34-4464-a36d-4426680a9b25.gif)
 
