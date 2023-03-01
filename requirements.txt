@@ -1,0 +1,5 @@
+twitchio
+keyboard
+mouse
+pystyle
+colorama
